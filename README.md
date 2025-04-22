@@ -38,6 +38,13 @@
 
 将中文卡牌数据库中的数据导出为JSON格式的文本文件。
 
+## netrunner-card-scans
+
+*《矩阵潜袭》卡牌图片资源下载工具*
+
+**项目地址**：[eric03742/netrunner-card-scans](https://github.com/eric03742/netrunner-card-scans)
+将 [NetrunnerDB](https://netrunnerdb.com/) 上的卡图下载至本地。
+
 ## 作者
 
 [Eric03742](https://github.com/eric03742)
