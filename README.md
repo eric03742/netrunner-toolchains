@@ -22,6 +22,14 @@
 
 使用 [TypeORM](https://typeorm.io/) 定义《矩阵潜袭》中文卡牌数据库中所使用的表结构，作为需要访问《矩阵潜袭》中文卡牌数据库的项目的DAO实现。
 
+## netrunner-entities-demo
+
+*`netrunner-entities` 演示项目*
+
+**项目地址**：[eric03742/netrunner-entities-demo](https://github.com/eric03742/netrunner-entities-demo)
+
+展示 `netrunner-entities` 使用方法的演示项目。
+
 ## netrunner-database
 
 *《矩阵潜袭》中文卡牌数据库导入工具*
